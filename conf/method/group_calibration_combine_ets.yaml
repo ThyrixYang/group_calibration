@@ -1,0 +1,16 @@
+name: group_calibration_combine_ets
+num_groups: 2
+num_partitions: 20
+train_set: test_train
+
+w_net:
+  model: linear
+  weight_decay: 1e-1
+
+optimizer:
+  name: lbfgs
+  lr: 1e-3
+  steps: 100
+
+base_calibrator:
+  name: ets

@@ -1,0 +1,5 @@
+test_path: datasets/cifar10_resnet152_0.9576_test.pkl
+val_path: datasets/cifar10_resnet152_0.9576_val.pkl
+test_acc: 0.9576
+model: resnet152
+dataset: cifar10
