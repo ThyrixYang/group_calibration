@@ -1,4 +1,4 @@
-# Reproducing results
+Code and Appendix of Beyond Probability Partitions: Calibrating Neural Networks with Semantic Aware Grouping (NeurIPS 2023).
 
 ## Methods
 
